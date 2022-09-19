@@ -1,4 +1,4 @@
-[![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)]
+![MasterHead](https://www.arkasoftwares.com/blog/wp-content/uploads/2021/01/header_banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Surya Srivastava</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right" alt="coding gif" width="400" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
